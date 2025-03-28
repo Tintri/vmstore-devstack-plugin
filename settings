@@ -1,0 +1,4 @@
+# Devstack settings
+
+# we have to add vmstore to enabled services
+enable_service vmstore
